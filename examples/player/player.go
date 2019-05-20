@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/zmb3/spotify"
+	"github.com/psmithuk/spotify"
 )
 
 // redirectURI is the OAuth redirect URI for the application.
